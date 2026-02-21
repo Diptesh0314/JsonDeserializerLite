@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JsonDeserializerLite/JsonDeserializerLite.csproj" />
+  <Project Path="TestJsonParserLite/TestJsonParserLite.csproj" Id="9bcbb8cd-12c7-4eae-a805-4bd74815f803" />
+</Solution>
